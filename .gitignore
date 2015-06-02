@@ -1,0 +1,11 @@
+*.class
+target/
+.idea/
+*.iml
+
+# Package Files #
+*.war
+*.ear
+
+hs_err_pid*
+/bin/
